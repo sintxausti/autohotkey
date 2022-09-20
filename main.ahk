@@ -26,137 +26,137 @@ return
 
 #if ComposeFlag == 1
 
-::u00ba::
+:?:u00ba::
 Send, º
 ComposeFlag = 0
 return
 
-::u00aa::
+:?:u00aa::
 Send, ª
 ComposeFlag = 0
 return
 
-::u1f642::
+:?:u1f642::
 Send, 🙂
 ComposeFlag = 0
 return
 
-::u1f600::
+:?:u1f600::
 Send, 😀
 ComposeFlag = 0
 return
 
-::u1f601::
+:?:u1f601::
 Send, 😁
 ComposeFlag = 0
 return
 
-::u1f923::
+:?:u1f923::
 Send, 🤣
 ComposeFlag = 0
 return
 
-::u1f609::
+:?:u1f609::
 Send, 😉
 ComposeFlag = 0
 return
 
-::u1f607::
+:?:u1f607::
 Send, 😇
 ComposeFlag = 0
 return
 
-::u1f970::
+:?:u1f970::
 Send, 🥰
 ComposeFlag = 0
 return
 
-::u1f60d::
+:?:u1f60d::
 Send, 😍
 ComposeFlag = 0
 return
 
-::u1f618::
+:?:u1f618::
 Send, 😘
 ComposeFlag = 0
 return
 
-::u1f92a::
+:?:u1f92a::
 Send, 🤪
 ComposeFlag = 0
 return
 
-::u1f917::
+:?:u1f917::
 Send, 🤗
 ComposeFlag = 0
 return
 
-::u1fae2::
+:?:u1fae2::
 Send, 🫢
 ComposeFlag = 0
 return
 
-::u1fae3::
+:?:u1fae3::
 Send, 🫣
 ComposeFlag = 0
 return
 
-::u1f92b::
+:?:u1f92b::
 Send, 🤫
 ComposeFlag = 0
 return
 
-::u1f914::
+:?:u1f914::
 Send, 🤔
 ComposeFlag = 0
 return
 
-::u1fae1::
+:?:u1fae1::
 Send, 🫡
 ComposeFlag = 0
 return
 
-::u1f928::
+:?:u1f928::
 Send, 🤨
 ComposeFlag = 0
 return
 
-::u1f92f::
+:?:u1f92f::
 Send, 🤯
 ComposeFlag = 0
 return
 
-::u1f60e::
+:?:u1f60e::
 Send, 😎
 ComposeFlag = 0
 return
 
-::u1f971::
+:?:u1f971::
 Send, 🥱
 ComposeFlag = 0
 return
 
-::u1f621::
+:?:u1f621::
 Send, 😡
 ComposeFlag = 0
 return
 
-::u1f625::
+:?:u1f625::
 Send, 😥
 ComposeFlag = 0
 return
 
-::u265f::
+:?:u265f::
 Send, ♟
 ComposeFlag = 0
 return
 
-::u262d::
+:?:u262d::
 Send, ☭
 ComposeFlag = 0
 return
 
-::u2615::
+:?:u2615::
 Send, ☕
 ComposeFlag = 0
 return
