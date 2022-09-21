@@ -19,144 +19,144 @@ return
 
 ;QMK Unicode Composer
 
-LControl & RAlt::
+<^<+u::
 ComposeFlag = 1
 return
 
 
 #if ComposeFlag == 1
 
-:?:u00ba::
+:?:00ba::
 Send, º
 ComposeFlag = 0
 return
 
-:?:u00aa::
+:?:00aa::
 Send, ª
 ComposeFlag = 0
 return
 
-:?:u1f642::
+:?:1f642::
 Send, 🙂
 ComposeFlag = 0
 return
 
-:?:u1f600::
+:?:1f600::
 Send, 😀
 ComposeFlag = 0
 return
 
-:?:u1f601::
+:?:1f601::
 Send, 😁
 ComposeFlag = 0
 return
 
-:?:u1f923::
+:?:1f923::
 Send, 🤣
 ComposeFlag = 0
 return
 
-:?:u1f609::
+:?:1f609::
 Send, 😉
 ComposeFlag = 0
 return
 
-:?:u1f607::
+:?:1f607::
 Send, 😇
 ComposeFlag = 0
 return
 
-:?:u1f970::
+:?:1f970::
 Send, 🥰
 ComposeFlag = 0
 return
 
-:?:u1f60d::
+:?:1f60d::
 Send, 😍
 ComposeFlag = 0
 return
 
-:?:u1f618::
+:?:1f618::
 Send, 😘
 ComposeFlag = 0
 return
 
-:?:u1f92a::
+:?:1f92a::
 Send, 🤪
 ComposeFlag = 0
 return
 
-:?:u1f917::
+:?:1f917::
 Send, 🤗
 ComposeFlag = 0
 return
 
-:?:u1fae2::
+:?:1fae2::
 Send, 🫢
 ComposeFlag = 0
 return
 
-:?:u1fae3::
+:?:1fae3::
 Send, 🫣
 ComposeFlag = 0
 return
 
-:?:u1f92b::
+:?:1f92b::
 Send, 🤫
 ComposeFlag = 0
 return
 
-:?:u1f914::
+:?:1f914::
 Send, 🤔
 ComposeFlag = 0
 return
 
-:?:u1fae1::
+:?:1fae1::
 Send, 🫡
 ComposeFlag = 0
 return
 
-:?:u1f928::
+:?:1f928::
 Send, 🤨
 ComposeFlag = 0
 return
 
-:?:u1f92f::
+:?:1f92f::
 Send, 🤯
 ComposeFlag = 0
 return
 
-:?:u1f60e::
+:?:1f60e::
 Send, 😎
 ComposeFlag = 0
 return
 
-:?:u1f971::
+:?:1f971::
 Send, 🥱
 ComposeFlag = 0
 return
 
-:?:u1f621::
+:?:1f621::
 Send, 😡
 ComposeFlag = 0
 return
 
-:?:u1f625::
+:?:1f625::
 Send, 😥
 ComposeFlag = 0
 return
 
-:?:u265f::
+:?:265f::
 Send, ♟
 ComposeFlag = 0
 return
 
-:?:u262d::
+:?:262d::
 Send, ☭
 ComposeFlag = 0
 return
 
-:?:u2615::
+:?:2615::
 Send, ☕
 ComposeFlag = 0
 return
